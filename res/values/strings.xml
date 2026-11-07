@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">SVR MTK 4K60</string>
+    <string name="xposed_description">Adds a third "MTK 4K60 (vendor high speed)" camera API level to Secret Video Recorder, recording true 4K 60fps through the MediaTek vendor hfpsMode session tags.</string>
+</resources>
